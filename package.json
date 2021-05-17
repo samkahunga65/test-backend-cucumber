@@ -1,0 +1,20 @@
+{
+  "name": "test-backend-cucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@firebase/firestore-types": "^2.3.0",
+    "express": "^4.17.1",
+    "firebase": "^8.6.1",
+    "firebase-tools": "^9.10.2",
+    "mongoose": "^5.12.9",
+    "nodemon": "^2.0.7"
+  }
+}
